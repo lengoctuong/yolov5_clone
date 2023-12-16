@@ -1,0 +1,29 @@
+# path: /content/data
+# train: train_mask/images/train/
+# val: train_mask/images/val/
+
+# Classes (80 COCO classes)
+names:
+  0: ear
+  1: eye
+  2: nose
+  3: mouth
+  4: car
+  5: meatballs
+  6: marinara sauce
+  7: tomato soup
+  8: chicken noodle soup
+  9: french onion soup
+  10: chicken breast
+  11: ribs
+  12: pulled pork
+  13: hamburger
+  14: cavity
+  15: face
+
+# Classes (4 face part classes)
+# names:
+#   0: ear
+#   1: eye
+#   2: nose
+#   3: mouth

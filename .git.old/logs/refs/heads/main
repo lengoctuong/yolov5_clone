@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 f400bba7836c1dbc2771db251984f20009b5fa81 nnthao <nnthao@mgmt01> 1702474907 +0000	clone: from https://github.com/ultralytics/yolov5.git
+f400bba7836c1dbc2771db251984f20009b5fa81 ff25b189169acc348f147cb5c3578623398efe3e nnthao <nnthao@mgmt01> 1702737401 +0000	commit: first commit
+ff25b189169acc348f147cb5c3578623398efe3e ff25b189169acc348f147cb5c3578623398efe3e nnthao <nnthao@mgmt01> 1702737405 +0000	Branch: renamed refs/heads/master to refs/heads/main
